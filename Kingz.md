@@ -23,7 +23,7 @@ $ ls
 <br/>
 $ cd Mahfuj-Boss
 <br/>
-$ python2 MahfujBoss.py
+$ python2 MahfujBoss
 <br/>
 .........................
 <br/>
