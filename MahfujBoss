@@ -120,7 +120,7 @@ jalan('\033[1;40m---> \033[1;32mFacebook Id : https://www.facebook.com/muhammad.
 jalan('\033[1;40m---> \033[1;32mKing Is Always King')
 jalan('\033[1;40m---> \033[1;32mR Jaiyen Nah Akhanei Thamen')
 
-\033[1;40m---> \033[1;32m N.A.M Mahfuj \033[1;31m[ N.A.M ]')
+jalan('\033[1;94m---> \033[1;32m N.A.M Mahfuj \033[1;31m[ N.A.M ]')
 print "\033[1;96m----->\033[1;32mTOOL LOGIN \033[1;96m<-----"
 
 CorrectUsername = "N.A.M"
